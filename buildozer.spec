@@ -5,7 +5,7 @@ package.domain = org.mymusic
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,txt
 version = 1.0
-requirements = python3,kivy,pyjnius,requests,yt-dlp,certifi,charset-normalizer,idna,urllib3
+requirements = python3,kivy,pyjnius
 android.accept_sdk_license = True
 
 [buildozer]
